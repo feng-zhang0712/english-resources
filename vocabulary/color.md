@@ -1,0 +1,48 @@
+# 颜色
+
+- black 黑
+- white 白
+- red 红
+- blue 蓝
+- green 绿
+- yellow 黄
+- orange 橙
+- purple 紫
+- pink 粉色
+- gray/grey 灰色
+- brown `/braʊn/` 棕色
+- gold 金色
+- silver `/ˈsɪlvər/` 银色
+- copper `/ˈkɑːpər/` 铜色
+- rose 玫瑰粉
+- sand 沙色
+- cyan `/ˈsaɪæn; ˈsaɪən/` 青色
+- magenta `/məˈdʒentə/` 品红色
+- maroon `/məˈruːn/` 褐红色
+- navy `/ˈneɪvi/` 深蓝色
+- olive `/ˈɑːlɪv/` 橄榄色
+- teal `/tiːl/` 青绿色
+- lime `/laɪm/` 青柠色
+- beige `/beɪʒ/` 米色
+- khaki `/ˈkɑːki/` 卡其色
+- ivory `/ˈaɪvəri/` 象牙色
+- bronze `/brɑːnz/` 古铜色
+- carmine `/ˈkɑːrmaɪn/` 深红色，胭脂红
+- cerulean `/sɪˈruːliən/` 天蓝色
+- tomato `/təˈmeɪtoʊ/` 鲜红色
+- amber `/ˈæmbər/` 琥珀色
+- azure `/ˈæʒər/` 蔚蓝色
+- flax `/flæks/` 亚麻色
+- turquoise​​ `/ˈtɜːrkwɔɪz/` 绿松石色
+- lavender `/ˈlævəndər/` 薰衣草紫
+- indigo `/ˈɪndɪɡoʊ/` 靛蓝色
+- coral `/ˈkɔːrəl/` 珊瑚色
+- mint​​ `/mɪnt/` 薄荷绿
+- violet​​ `/ˈvaɪələt/` 紫罗兰色
+- aqua​​ `/ˈɑːkwə/` 水蓝色
+- cream​​ `/kriːm/` 奶油色
+- charcoal​​ `/ˈtʃɑːrkoʊl/` 炭黑
+- salmon​​ `/ˈsæmən/` 三文鱼色
+- rust `/rʌst/`锈色
+- mustard​​ `/ˈmʌstərd/` 芥末色
+- periwinkle​​ `/ˈperiwɪŋkl/` 长春花色
