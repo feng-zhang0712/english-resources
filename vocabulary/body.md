@@ -34,7 +34,7 @@
 - groin `/ɡrɔɪn/` 腹股沟
 - leg `/leɡ/` 腿
 - thigh `/θaɪ/` 大腿
-- calf `/kæf/` 腿肚子
+- calf `/kæf/` 腿肚子（小腿）
 - knee `/niː/` 膝盖
 - shin `/ʃɪn/` 胫骨
 - foot `/fʊt/` 脚
@@ -42,11 +42,11 @@
 - ball of the foot 脚掌球部
 - ankle `/'æŋkl/` 踝
 - instep `/'ɪnstep/` 脚背
+- sole `/soʊl/` 脚底
 - heel `/hiːl/` 脚跟
 - toe `/toʊ/` 脚趾
 - neil `/neɪl/` 指甲
 - toenail `/'toʊneɪl/` 脚趾甲
-- sole `/soʊl/` 脚底
 - big toe 大脚趾
 
 ## The Face - 脸
@@ -114,15 +114,16 @@
 - pancreas `/'pæŋkriəs/` 胰腺
 - bladder `/'blædər/` <解>膀胱
 - appendix `/ə'pendɪks/` 阑尾
+- cholecyst `/ˈkolɪˌsɪst/` / gall bladder 胆囊/<解>胆囊
 - anus `/'eɪnəs/` 肛门
 - pore `/pɔːr/` 毛孔
 - spinal cord `/'spaɪnl/` 脊髓
 - tonsil `/'tɑːnsl/` 扁桃体
+- thyroid `ˈθaɪrɔɪd` 甲状腺
 - gullet `/'ɡʌlɪt/` 食道；咽喉
 - windpipe `/'wɪndpaɪp/` / trachea `/'treɪkiə/` 气管
 - bronchial tube `/'brɑːŋkiəl/` 支气管
 - bile duct `/baɪl/` 胆管
-- cholecyst `/ˈkolɪˌsɪst/` / gall bladder 胆囊/<解>胆囊
 - intestine `/ɪn'testɪn/` 肠
 - large intestine 大肠
 - small intestine 小肠
@@ -132,6 +133,17 @@
 - capillaries `/'kæpəleri/` 毛细血管
 - pharynx `/'færɪŋks/` <解>咽
 - larynx `/'lærɪŋks/` 喉
+- ureter `/jʊˈritər/` 输尿管
+- urethra `/jʊˈriːθrə/` 尿道
+- vein `/veɪn/` 静脉
+- artery `/ˈɑːrtəri/` 动脉
+- aorta `/eɪˈɔːrtə/` 主动脉
+- penis `/ˈpiːnɪs/` 阴茎
+- dick `/dɪk/` <俚>阴茎
+- testis `/ˈtestɪs/` <解剖>睾丸
+- testicle `/ˈtestɪkl/` <解剖>睾丸
+- uterus `/ˈjuːtərəs/` <解剖>子宫
+- womb `/wuːm/` <解剖>子宫
 
 ## The Skeleton - 骨骼
 
@@ -146,6 +158,9 @@
 - rib `/rɪb/` 肋骨
 - humerus `/'hjuːmərəs/` 肱部
 - vertebra `/'vɜːrtɪbrə/` <解>椎骨
+- cervical vertebra `ˈsɜːrvɪkl` 颈椎
+- thoracic vertebra `θɔːˈræsɪk` 胸椎
+- lumbar vertebra `ˈlʌmbər` 腰椎
 - backbone/spine `/spaɪn/` 脊柱
 - hip bone 髋骨
 - pelvis `/'pelvɪs/` 骨盆
