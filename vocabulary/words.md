@@ -1,6 +1,7 @@
 # 护理课程单词笔记
 
 - abandonment `/əˈbændənmənt/` n. 抛弃
+- aboriginal `/ˌæbəˈrɪdʒənl/` adj. 土著的；土著居民
 - abuse `/əˈbjuːs/` v.n. 虐待；滥用
   - It is the disability support worker’s duty of care to ensure that any reasonable belief of abuse to the person they are supporting is reported to the proper authorities.
 - accommodation `/əˌkɑːməˈdeɪʃn/` n. 住宿
@@ -17,6 +18,7 @@
 - adulthood `/əˈdʌlthʊd/` n. 成年
 - advocate `/ˈædvəkeɪt/` v. 拥护 n. 拥护者
   - This organization advocates for the rights of people with physical disabilities and promotes diversity and inclusion.
+- affair `/əˈfer/` n. 事务；私事
 - affiliation `/əˌfɪliˈeɪʃn/` n. （与政治、宗教等组织的）联系
 - afterwards `/ˈæftərwərdz/` adv. 后来
 - agitated `/ˈædʒɪteɪtɪd/` adj. 激动的 v. 煽动；搅动（agitate 的过去式和过去分词）
@@ -31,11 +33,12 @@
 - allied `/ˈælaɪd/` adj. 结盟的 v.（ally 的过去式和过去分词）
 - analyst `/ˈænəlɪst/` n. 分析员
 - ancestry `/ˈænsestri/` n. 祖先
+- anti `/ˈænti/` prep. 反对 adj. 反对的
 - anticipate `/ænˈtɪsɪpeɪt/` v. 预料；预见
 - applicable `/ˈæplɪkəbl/` adj. 适当的
 - appropriate `/əˈproʊpriət/` adj. 合适的
 - approval `/əˈpruːvl/` n. 批准
-- assault `/əˈsɔːlt/` n.v. 袭击；人身攻击
+- assault `/əˈsɔːlt/` n.v. 袭击；侵犯
 - assessment n. 评价；估价
 - assessor `/əˈsesər/` n. 评审员
 - assignment `/ə'saɪnmənt/` n. 任务；分配
@@ -67,6 +70,7 @@
 - checklist `/ˈtʃeklɪst/` n. 清单；检查表
 - chore `/tʃɔːr/` n. 杂活
 - clarify `/ˈklærəfaɪ/` v. 澄清；阐明
+- clause `/klɔːz/` n. 分句；（法律文件的）条款
 - clinical `/ˈklɪnɪkl/` adj. 临床的
 - cluster `/ˈklʌstər/` n. 簇；星团；一连串同类事件 v. 聚集
   - Autism spectrum disorder (ASD) describes a cluster of disorders such as Rett's Disorder and Childhood Disintegrative Disorder.
@@ -165,6 +169,7 @@
 - ethnic `/ˈeθnɪk/` adj. 种族的
 - evaluation `/ɪˌvæljuˈeɪʃn/` n. 评价，评估
 - excessive `//`
+- exclusion `/ɪkˈskluːʒn/` n. 排斥
 - exhibit `//`  
 - exploitation `/ˌeksplɔɪˈteɪʃn/` n. 剥削；开发
 - extensive `//` 
@@ -175,6 +180,7 @@
 - factual `/ˈfæktʃuəl/` adj. 真实的；事实的
   - Be factual and objective.
 - familiarize `/fəˈmɪliəraɪz/` v. 使熟悉
+- federal `/ˈfedərəl/` adj. 联邦（制）的
 - fellow `/'feloʊ/` n. 同事；对等者... adj. 同类的
   - fellow worker 同事
 - flow `//` 
@@ -197,12 +203,14 @@
   - hinder sb. from doing sth. 妨碍某人做某事
 - hoist `/hɔɪst/` n.v. 吊起 n. 起重机
 - holistic `/hoʊˈlɪstɪk/` adj. 整体的
+- hostility `/hɑːˈstɪləti/` n. 敌意
 - hygiene `/ˈhaɪdʒiːn/` n. 卫生保健
   - oral hygiene 口腔卫生
 - hypersexuality `/ˌhaɪpəˌseksjʊˈælɪti/` n. 性欲亢进
 - hypothetical `/ˌhaɪpəˈθetɪkl/` adj. 假设的
 - impaired `/ɪmˈperd/` adj. 受损的 v. 损害（impair 的过去式和过去分词）
 - impairment `/ɪmˈpermənt/` n. （身体或智力方面的）缺陷
+- imprisonment `/ɪmˈprɪznmənt/` n. 监禁
 - impulsive `/ɪmˈpʌlsɪv/` adj. 冲动的；脉冲的
 - inadequate adj. 不充分的
 - inappropriate `/ˌɪnəˈproʊpriət/` adj. 不恰当的
@@ -225,6 +233,8 @@
 - instruction `/ɪnˈstrʌkʃn/` n. 用法说明；指示
 - insufficient `/ˌɪnsəˈfɪʃnt/` adj. 不充分的
 - intellectual `/ˌɪntəˈlektʃuəl/` adj. 智力的
+- intelligence `/ɪnˈtelɪdʒəns/` n. 智力；情报
+  - Australian Criminal Intelligence Commission (ACIC) 澳大利亚刑事情报委员会
 - interdisciplinary `/ˌɪntərˈdɪsəplɪneri/` adj. 跨学科的
 - interferes `/ˌɪntərˈfɪr/` v. 干涉
 - interference `/ˌɪntərˈfɪrəns/` n. 干涉
@@ -241,9 +251,11 @@
 - lap `/læp/` v. 轻打 n. 膝上
 - latter `/ˈlætər/` adj. 后者
 - legislative `/'ledʒɪsleɪtɪv/` adj. 立法的
-- legislation `/ˌledʒɪs'leɪʃn/` n. 法律
+- legislation `/ˌledʒɪs'leɪʃn/` n. 法律；立法
+- liberty
 - librarian `/laɪˈbreriən/` n. 图书馆管理员
 - limb `/lɪm/` n. 肢
+- long-standing 长期存在的
 - lucid `/ˈluːsɪd/` adj. 神志清醒的
 - managerial `/ˌmænəˈdʒɪriəl/` adj. 管理上的
 - mandatory `/ˈmændətɔːri/` adj. 强制性的
@@ -269,19 +281,22 @@
 - occasion `/əˈkeɪʒn/` n. 时机；特殊（或重大）场合 v. 引起
 - occupation `/ˌɑːkju'peɪʃn/` n. 职业
 - occupational `/ˌɑːkju'peɪʃənl/` adj. 职业的
+- offence `/əˈfens/` n. 犯罪；冒犯；攻击
 - omission `/əˈmɪʃn/` n. 疏忽
 - ongoing `/ˈɑːnɡoʊɪŋ/` adj. 持续的
 - oppressive `/əˈpresɪv/` adj. 压迫的
 - outline n. 轮廓；要点 v. 概述
 - oversee `/ˌoʊvərˈsiː/` v. 监管；无意中看到
 - overwhelming `/ˌoʊvər'welmɪŋ/` adj. 令人不知所措的；压倒性的
-
 - pastoral `/ˈpæstərəl/` adj. 牧师的；田园生活的
 - participate `/pɑːrˈtɪsɪpeɪt/` v. 参加(与)
 - participation `/pɑːrˌtɪsɪˈpeɪʃn/` n. 参加(与)
+- penalty `/ˈpenəlti/` n. 处罚；（体育运动中对犯规者的）判罚
 - perceived `/pərˈsiːvd/` adj. 感知到的 v. 感知；领会（perceive 的过去式和过去分词）
 - personnel `/ˌpɜːrsəˈnel/` n. 人员
+- perspective `/pərˈspektɪv/` n. 观点；透视 adj. 透视的
 - persuasion `/pərˈsweɪʒn/` n. 说服
+- pertain `/pərˈteɪn/` v. 关于；<法律>从属
 - philosophy `fəˈlɑːsəfi/` n. 哲学；理念
 - photograph `/ˈfoʊtəɡræf/` n. 照片 v. 拍照
 - physical adj. 身体的；物质的
@@ -304,6 +319,7 @@
   - prone to 倾向于；有…的倾向
 - propose `/prəˈpoʊz/` v. 提议；推荐；求婚
 - prosession `/prəˈseʃn/` n. 队列
+- provision `/prəˈvɪʒn/` n. 供应；规定；（尤指为旅行准备的）食物，必需品（provisions）
 - psychiatric `/ˌsaɪkiˈætrɪk/` adj. 精神病学的
 - psychological `/ˌsaɪkəˈlɑːdʒɪkl/` adj. 心理的
 - psychologist `/saɪˈkɑːlədʒɪst/` adj. 心理学家
@@ -316,6 +332,7 @@
 - quantity `/ˈkwɑːntəti/` n. 数量
 - race `/reɪs/` n. 竞赛；（动植物）种属 v. 比赛
 - racial `/ˈreɪʃl/` adj. 种族（间）的
+- racism `/ˈreɪsɪzəm/` n. 种族主义；种族歧视
 - ramification `/ˌræmɪfɪˈkeɪʃn/` n. 衍生物；分支
 - recreational `/ˌrekriˈeɪʃənl/` adj. 娱乐的
 - recruiter `/rɪˈkruːtər/` n. 招聘人员
@@ -326,21 +343,22 @@
 - reinforce `/ˌriːɪnˈfɔːrs/` v. 强化
 - relevance `/ˈreləvəns/`
 - religion `/rɪˈlɪdʒən/` n. 宗教信仰；宗教
-- removal `/rɪˈmuːv(ə)l/` n. 移动；消除
+- removal `/rɪˈmuːvl/` n. 移动；消除
 - residence `/ˈrezɪdəns/` n. 住宅；居住；（在某国的）居住权
 - residential `/ˌrezɪˈdenʃl/` adj. 住宅的
 - restraint `/rɪˈstreɪnt/` n. 约束
 - revise `/rɪˈvaɪz/` v.n. 修正；修订
 - routine `/ruːˈtiːn/` n. 惯例 adj. 例行的
-- safeguard `//` 
+- safeguard `/ˈseɪfɡɑːrd/` n. 保护措施 v. 保护
 - salesperson `/ˈseɪlzpɜːrsn/` 售货员
-- seclusion `//` 
+- seclusion `/sɪˈkluːʒn/` n. 隐居
 - sector `/'sektər/` n. 部门 v. 把...分成扇形
 - secure `/sɪˈkjʊr/` adj. 安全的 v. 确保
 - self-esteem `/ˌself ɪˈstiːm/` n. 自尊（心）
 - semester `/sɪˈmestər/` n. 学期
-- severe `//` 
-- severity `//` 
+- severe `/sɪˈvɪr/` adj. 严重的；严厉的
+- severely `/sɪˈvɪrli/` adv. 严重地；严厉地
+- severity `/sɪˈverəti/` n. 严重(性)
 - shave `/ʃeɪv/` n.v. 剃（须）；削
 - simulate `/ˈsɪmjuleɪt/` v. 冒充；模拟
 - signature `/ˈsɪɡnətʃər/` n. 签名
@@ -356,20 +374,22 @@
 - statutory `//` 
 - stereotype `/ˈsteriətaɪp/` n. 刻板印象 v. 对...形成刻板的看法
 - stick to 坚持
+- strait `/streɪt/` n. 海峡 adv. 严格地
 - stressor `//` 
 - struggle `//` 
 - subordinate `/səˈbɔːrdɪnət/` adj. 下级的；从属的 n 下级；从属
 - substance `//` 
+- substantial `//`
 - supervision `/ˌsuːpər'vɪʒn/` n. 监管
 - supervisory `/ˌsuːpərˈvaɪzəri/` adj. 监督的
 - supervisor `/ˈsuːpərvaɪzər/` n. 监管者；指导教师
-- surgery `//` 
-- surround `//` 
+- surgery `/ˈsɜːrdʒəri/` n. 手术
+- surround `/səˈraʊnd/` v. 环绕
 - swallow `/ˈswɑːloʊ/` v. 吞咽 n. 燕子
-- symptom `//` 
+- symptom `/ˈsɪmptəm/` n. 症状
 - tackle `/'tækl/` v. 解决 n.（足球等中的）抢断球
 - tardy `/ˈtɑːrdi/` adj. 迟缓的 n. 迟到
-- temporarily `//` 
+- temporarily `/ˌtempəˈrerəli/` adv. 临时地
 - tempt `/tempt/` v. 引诱
 - terminate `/ˈtɜːrmɪneɪt/` v. 结束；解雇
 - terminology `/ˌtɜːrmɪˈnɑːlədʒi/` n. 术语
@@ -377,23 +397,22 @@
 - therapeutic `/ˌθerəˈpjuːtɪk/` adj. 治疗的
 - therapy `/ˈθerəpi/` n. 治疗
 - toilet `/ˈtɔɪlət/` adj. 马桶
-- tolerable `//` 
+- tolerable `/ˈtɑːlərəbl/` adj. 可容忍的
 - trainee `/ˌtreɪ'niː/` n. 接受培训者
 - trait `/treɪt/` n. 特征
-- trauma `//` 
+- trauma `/ˈtrɔːmə/` n. 创伤
 - tube `/tuːb/` n. 管
-- unapproval `//` 
 - unconscious `/ʌnˈkɑːnʃəs/` adj. 无意识的
-- underlying `//` 
+- underlying `/ˌʌndərˈlaɪɪŋ/` adj. 潜在的 v. 位于...的下面（underlie 的现在分词形式）
 - undertake `/ˌʌndərˈteɪk/` v. 承担
 - unmet `/ˌʌnˈmet/` adj. 未满足的
-- unwanted `//` 
-- uphold `//` 
+- uphold `/ʌpˈhoʊld/` v. 鼓励；举起
 - vegan `/ˈviːɡən/` n. 严格的素食主义者 adj. 严格素食的
-- verification `//` 
+- verification `/ˌverɪfɪˈkeɪʃn/` n. 核实；证实
 - violate `/ˈvaɪəleɪt/` v. 违反
-- virtue `//` 
-- vision `//` 
+- virtue `/ˈvɜːrtʃuː/` n. 美德
+- vision `/ˈvɪʒn/` n. 幻想；视力，视觉
 - wheelchair `/ˈwiːltʃer/` 轮椅
 - wherein `/werˈɪn/` 在何处
-- witness `//` 
+- witness `/ˈwɪtnəs/` v. 目击 n. 目击者；（法庭等的）证人
+- workforce `/ˈwɜːrkfɔːrs/` n. 劳动力
