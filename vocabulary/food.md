@@ -65,32 +65,14 @@
 
 ## 蔬菜
 
+- scallion
+- ginger
+- garlic `/ˈɡɑːrlɪk/` 蒜
+- coriander
+
 ## 肉类
 
 ## 主食
-
-## 调料
-
-- salt
-- sugar
-- soy sauce
-- vinegar
-- cooking wine
-- oyster sauce
-- sesame oil
-- chili oil
-- broad bean paste
-- pepper
-- spice powder
-- chili powder
-- sichuan pepper
-- MSG
-- chicken bouillon
-- cumin
-- star anise
-- bay leaf
-- cinnamon
-- curry
 
 ## 饮料
 
