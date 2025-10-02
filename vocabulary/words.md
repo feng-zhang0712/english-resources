@@ -10,6 +10,8 @@
   - in accordance with 与...一致
 - accreditation `/əˌkredɪˈteɪʃn/` n. 委派；信赖
   - accreditation systems 认可制度
+- accustomed `/əˈkʌstəmd/` adj. 习惯的 v. 使习惯于（accustom 的过去式和过去分词）
+- Act v. 行动；扮演 n. 行动；法案
 - adequate `/ˈædɪkwət/` adj. 充分的
 - adequately `/ˈædɪkwətli/` adv. 充分地；适当地
   - Persons with disability who have adequate mental health support can develop skills with the self-awareness to their own strengths.
@@ -47,8 +49,10 @@
   - A person's need for assistance is unmet if they do not receive assistance or require more assistance than is currently being received for one or more of the activities where assistance is needed.
 - association `/əˌsəʊsiˈeɪʃn/` n. 协会；联系
 - assurance `/əˈʃʊrəns/` n. 确保
+- attain `/əˈteɪn/` v. 获得，实现；达到
 - autonomy `/ɔːˈtɑːnəmi/` n. 自治；自主
 - barrier `/ˈbæriər/` n. 屏障
+- bisexual `/ˌbaɪˈsekʃuəl/` adj. 两性的；双性恋者
 - boost `/buːst/` n.v. 推动；宣扬
 - booklet `/ˈbʊklət/` n. 小册子
 - borne `/bɔːrn/` v. 忍受
@@ -62,12 +66,14 @@
 - budget `/ˈbʌdʒɪt/` n. 预算 adj. 廉价的
 - bully `/ˈbʊli/` v. 威胁 n. 恃强凌弱者
 - calm `/kɑːm/` adj. 沉着的 v. 使镇静 n. 镇静
+- caption `/ˈkæpʃ(ə)n/` n. 说明文字；字幕 v. 给...加文字说明
 - career options 职业选择
 - carer `/ˈkerər/` n. 看护者
 - catheter `/ˈkæθətər/` n. 导管；导尿管
 - cerebral `/səˈriːbrəl/` adj. 大脑的；智力的
 - characterize `/ˈkærəktəraɪz/` v. 描述；是...的典型
 - checklist `/ˈtʃeklɪst/` n. 清单；检查表
+- chip `/tʃɪp/` n. 炸薯条；芯片；碎屑 v. 削，凿
 - chore `/tʃɔːr/` n. 杂活
 - clarify `/ˈklærəfaɪ/` v. 澄清；阐明
 - clause `/klɔːz/` n. 分句；（法律文件的）条款
@@ -90,6 +96,7 @@
 - complexity `/kəmˈpleksəti/` n. 复杂性
 - comply `/kəm'plaɪ/` v. 遵从
 - compliant `/kəmˈplaɪənt/` adj. 服从的；符合的
+- comprise `/kəmˈpraɪz/` v. 包括；构成
 - compromise `/ˈkɑːmprəmaɪz/` v.n. 妥协
 - confidentiality `/ˌkɑːnfɪˌdenʃiˈæləti/` n. 保密性
 - cope `/koʊp/` v. 处理 n. 长袍
@@ -112,12 +119,12 @@
 - criteria `/kraɪˈtɪriə/` n. （评判或做决定的）标准，尺度（criterion 的复数）
 - criterion `/kraɪˈtɪriən/` n. 标准，尺度
 - critical `/ˈkrɪtɪkl/` adj. 批判的；重要的；严重的
-- custom `/ˈkʌstəm/` n. 风俗习惯；光顾；（经常性的）顾客
-- decent `/ˈdɪɡnəti/` n. 尊严；尊贵
+- custom `/ˈkʌstəm/` n. 风俗习惯；光顾
+- decent `/ˈdiːsnt/` adj. 得体的；正派的
 - defensible adj. 可辩解的（有正当理由的）；可防御的
 - deliver `/dɪˈlɪvər/` v. 投递；交付；发布
 - delivery `/dɪˈlɪvəri/` n. 投递 adj. 运送的
-  - delivery car 送货车 
+  - delivery car 送货车
 - demanding `/dɪ'mændɪŋ/` adj. 费时费力的 v.（demand 的现在分词形式）
 - denial `/dɪˈnaɪəl/` n. 否认
   - denial of identity 身份否定
@@ -151,28 +158,32 @@
 - domestic `/dəˈmestɪk/` adj. 国内的；家庭的
 - drainage `/ˈdreɪnɪdʒ/` n. 排水；排泄
 - elaborate `/ɪˈlæbərət/` adj. 详尽的 v. 详细说明；精心制作
-- elated `//` 
+- elated `/ɪˈleɪtɪd/` adj. 兴高采烈的 v. 使兴奋（elate 的过去式和过去分词）
 - elementary `/ˌelɪˈmentri/`  adj. 基本的
-- eligible `//` 
-- eliminate `//` 
-- empowered `//` 
-- empowerment `//` 
+- eligible `/ˈelɪdʒəbl/` adj. 符合条件的；（婚姻）合适的
+- eliminate `/ɪˈlɪmɪneɪt/` v. 根除；把...排除在外
+- empower `/ɪmˈpaʊər/` v. 授权
+- empowerment `/ɪmˈpaʊərmənt/` n. 授权
+- encompass `/ɪnˈkʌmpəs/` v. 包括；包围
 - encouragement 鼓励
-- enforce `//` 
-- engage `//` 
+- enforce `/ɪnˈfɔːrs/` v. 实施；强迫
+- engage `/ɪnˈɡeɪdʒ/` v. 雇用；参加
+- engaged adj. 已订婚的；从事...的 v. （engage 的过去式和过去分词）
 - enroll `/ɪnˈroʊl/` vt. 登记；注册
-- enterprise `//` 
-- entitles `//` 
+- enterprise `/ˈentərpraɪz/` n. 企业；事业
+- entitles `/ɪnˈtaɪtl/` v. 授权
 - entity `/ˈentəti/` n. 实体
-- equality `//` 
+- equality `/iˈkwɑːləti/` n. 平等；等式
 - ethical `/ˈeθɪkl/` adj. 道德伦理的
 - ethnic `/ˈeθnɪk/` adj. 种族的
+- ethnicity `/eθˈnɪsəti/` n. 种族
 - evaluation `/ɪˌvæljuˈeɪʃn/` n. 评价，评估
-- excessive `//`
+- excerpt `/ekˈsɜːrpt/` v.n. 摘录，节选
+- excessive `/ɪkˈsesɪv/` adj. 过多（度）的
 - exclusion `/ɪkˈskluːʒn/` n. 排斥
-- exhibit `//`  
+- exhibit `/ɪɡˈzɪbɪt/` v. 表现出；提出（证据等）；展览
 - exploitation `/ˌeksplɔɪˈteɪʃn/` n. 剥削；开发
-- extensive `//` 
+- extensive `/ɪkˈstensɪv/` adj. 广阔的
 - facial `/ˈfeɪʃl/` adj. 面部的 n. 美容
 - facility `/fə'sɪləti/` n. 设备；场所
 - facilitator `/fəˈsɪlɪteɪtər/` n. 促进者（不同语境下含义不同，比如会议主持人、培训中的引导人）
@@ -183,7 +194,9 @@
 - federal `/ˈfedərəl/` adj. 联邦（制）的
 - fellow `/'feloʊ/` n. 同事；对等者... adj. 同类的
   - fellow worker 同事
+- fiminine `/ˈfemənɪn/` adj. 女性特有的；女性的 n. 阴性
 - flow `//` 
+- forklift `/ˈfɔːrkˌlɪft/` n. 叉车
 - foreseeable `/fɔːrˈsiːəbl/` adj. 可预知的
 - former `/ˈfɔːrmər/` adj. 以前的；前者的
 - frighten `/ˈfraɪtn/` v. 使惊吓
@@ -197,13 +210,16 @@
   - grocery shopping 购物杂货
 - handwritten `/ˌhændˈrɪtn/` adj. 手写的
 - harassment `/həˈræsmənt/` n. 骚扰
-- hazard `/ˈhæzərd/` n. 危害
+- hard hat 安全帽
+- hazard `/ˈhæzərd/` n. 危险
+- heterosexual `/ˌhetərəˈsekʃuəl/` adj. 异性的；异性恋的 n. 异性恋的人
 - heritage `/ˈherɪtɪdʒ/` n. 遗产；<美>（植物种类）纯种的
 - hinder `/ˈhɪndər/` v. 妨碍
   - hinder sb. from doing sth. 妨碍某人做某事
 - hoist `/hɔɪst/` n.v. 吊起 n. 起重机
 - holistic `/hoʊˈlɪstɪk/` adj. 整体的
 - hostility `/hɑːˈstɪləti/` n. 敌意
+- household `/ˈhaʊshoʊld/` n. 家庭，一家人；家务；王室（the Household） adj. 家用的，家务的；全家人的
 - hygiene `/ˈhaɪdʒiːn/` n. 卫生保健
   - oral hygiene 口腔卫生
 - hypersexuality `/ˌhaɪpəˌseksjʊˈælɪti/` n. 性欲亢进
@@ -222,6 +238,7 @@
 - inclusion `/ɪnˈkluːʒn/` n. 包含；包含物
 - incorporated `/ɪnˈkɔːrpəreɪtɪd/` adj. 股份有限的；合并的 v. 包含，合并（incorporate 的过去式和过去分词）
 - indicator `/ˈɪndɪkeɪtər/` n. 迹象；指示器
+- indigenous `/ɪnˈdɪdʒənəs/` adj. 本土的，固有的
 - individual `/ˌɪndɪˈvɪdʒuəl/` adj. 单独的；个人的 n. 个人
 - infancy `/ˈɪnfənsi/` n. 婴儿期
 - inferior `/ɪnˈfɪriər/` adj. 次的；低等的，下级的；（位置）下方的 n. 低于他人者
@@ -252,7 +269,9 @@
 - latter `/ˈlætər/` adj. 后者
 - legislative `/'ledʒɪsleɪtɪv/` adj. 立法的
 - legislation `/ˌledʒɪs'leɪʃn/` n. 法律；立法
-- liberty
+- lesbian `/ˈlezbiən/` n. 女同性恋者 adj. 女同性恋的
+- liberal `/ˈlɪbərəl/` adj. 思想开明的；自由主义的；文科的 n. 思想开明的人；自由主义者
+- liberty `/ˈlɪbərti/` n. 自由
 - librarian `/laɪˈbreriən/` n. 图书馆管理员
 - limb `/lɪm/` n. 肢
 - long-standing 长期存在的
@@ -260,6 +279,7 @@
 - managerial `/ˌmænəˈdʒɪriəl/` adj. 管理上的
 - mandatory `/ˈmændətɔːri/` adj. 强制性的
 - manner `/ˈmænər/` n. 举止态度
+- masculine `/ˈmæskjəlɪn/` adj. 男性的；阳刚的 n. 阳性
 - meal `/miːl/` n. 一餐 v. 进餐
 - mechanical `/məˈkænɪkl/` adj. 机械的
   - mechanical restraint 机械束缚
@@ -273,8 +293,10 @@
 - mobility `/moʊˈbɪləti/` n. 活动性
 - mobilize `/ˈmoʊbəlaɪz/` v. 动员；调动
 - moderate `/ˈmɑːdərət/` adj. 适度的 v. 缓和
+- morality `/məˈræləti/` n. 道德，品行；正当性
 - neatness `/ˈniːtnəs/` n. 干净整洁
 - neglect `/nɪˈɡlekt/` v.n. 忽视
+- norm `/nɔːrm/` n. 规范；标准
 - obligate `/ˈɑːblɪɡeɪt/` v. 负有法律责任
 - obligation `/ˌɑːblɪˈɡeɪʃn/` n. （法律上或道义上的）责任义务
 - obstacle `/ˈɑːbstəkl/` n. 障碍；障碍物
@@ -298,12 +320,14 @@
 - persuasion `/pərˈsweɪʒn/` n. 说服
 - pertain `/pərˈteɪn/` v. 关于；<法律>从属
 - philosophy `fəˈlɑːsəfi/` n. 哲学；理念
+- photocopier `/ˈfoʊtoʊkɑːpiər/` 复印机
 - photograph `/ˈfoʊtəɡræf/` n. 照片 v. 拍照
 - physical adj. 身体的；物质的
 - physiotherapist `/ˌfɪzioʊˈθerəpɪst/` n. 理疗师
 - posture `/ˈpɑːstʃər/` n. 姿态
 - practicable `/ˈpræktɪkəbl/` adj. 可行的
 - practitioner `/prækˈtɪʃənər/` n. 从业人员
+- praise `/preɪz/` v.n. 赞扬
 - precisely `/prɪˈsaɪsli/` adv. 准确地；恰好
 - preference `/ˈprefrəns/` n. 偏好；优先（权）
 - premise `/ˈpremɪs/` n. 前提，假设；（企业或机构使用的）房屋及土地（premises） v. 以...为前提
@@ -362,44 +386,54 @@
 - shave `/ʃeɪv/` n.v. 剃（须）；削
 - simulate `/ˈsɪmjuleɪt/` v. 冒充；模拟
 - signature `/ˈsɪɡnətʃər/` n. 签名
-- slightly `//` 
-- socialize `//` 
+- slip over 滑倒
+- socialize `/ˈsoʊʃəlaɪz/` v. 交际
 - specialist `/ˈspeʃəlɪst/` n. 专家；专科医生 adj. 专业的
-- specify `//` 
+- specify `/ˈspesɪfaɪ/` v. 指出；说明
 - speech pathologist `/pəˈθɑːlədʒɪst/` 言语病理学家
-- spinal cord `//` 
-- spiritual `//` 
+- spinal `/ˈspaɪnl/` adj. 脊髓的
+- cord `/kɔːrd/` n. 线，绳
+  - spinal cord 脊髓
+- spiritual `/ˈspɪrɪtʃuəl/` adj. 精神的
 - stair `/ster/` n. 楼梯
-- stance `//` 
-- statutory `//` 
+- stance `/stæns/` n. 立场；（尤指体育运动中的）站立姿势
+- statutory `/ˈstætʃətɔːri/` adj. 法定的
 - stereotype `/ˈsteriətaɪp/` n. 刻板印象 v. 对...形成刻板的看法
 - stick to 坚持
 - strait `/streɪt/` n. 海峡 adv. 严格地
-- stressor `//` 
-- struggle `//` 
+- struggle `/ˈstrʌɡl/` v.n. 奋斗；搏斗
 - subordinate `/səˈbɔːrdɪnət/` adj. 下级的；从属的 n 下级；从属
-- substance `//` 
-- substantial `//`
+- substance `/ˈsʌbstəns/` n. 物质；实质；真实性
+  - in substance 基本上；事实上
+- substantial `/səbˈstænʃl/` adj. 大量的；牢固的；基本的
+- subtitle `/ˈsʌbtaɪtl/` n. 字幕（subtitles）；副标题
+- suburb `/ˈsʌbɜːrb/` n. 城郊
 - supervision `/ˌsuːpər'vɪʒn/` n. 监管
 - supervisory `/ˌsuːpərˈvaɪzəri/` adj. 监督的
 - supervisor `/ˈsuːpərvaɪzər/` n. 监管者；指导教师
 - surgery `/ˈsɜːrdʒəri/` n. 手术
+- surname `/ˈsɜːrneɪm/` n. 姓 v. 给...姓氏
 - surround `/səˈraʊnd/` v. 环绕
 - swallow `/ˈswɑːloʊ/` v. 吞咽 n. 燕子
 - symptom `/ˈsɪmptəm/` n. 症状
 - tackle `/'tækl/` v. 解决 n.（足球等中的）抢断球
+- take-away adj. 可带走的
+  - take-away food 外卖食品
 - tardy `/ˈtɑːrdi/` adj. 迟缓的 n. 迟到
 - temporarily `/ˌtempəˈrerəli/` adv. 临时地
 - tempt `/tempt/` v. 引诱
 - terminate `/ˈtɜːrmɪneɪt/` v. 结束；解雇
 - terminology `/ˌtɜːrmɪˈnɑːlədʒi/` n. 术语
 - territory `/'terətɔːri/` n. 领土
+- texture `/ˈtekstʃər/` n. 质地，纹理 v. 使（织物、墙面等）具浮凸结构（或特征）
 - therapeutic `/ˌθerəˈpjuːtɪk/` adj. 治疗的
 - therapy `/ˈθerəpi/` n. 治疗
 - toilet `/ˈtɔɪlət/` adj. 马桶
 - tolerable `/ˈtɑːlərəbl/` adj. 可容忍的
+- tolerate `/ˈtɑːləreɪt/` v. 容许；忍受
 - trainee `/ˌtreɪ'niː/` n. 接受培训者
 - trait `/treɪt/` n. 特征
+- transgender `/trænzˈdʒendər/` adj. 跨性别的（同 transgendered） n. 跨性别者
 - trauma `/ˈtrɔːmə/` n. 创伤
 - tube `/tuːb/` n. 管
 - unconscious `/ʌnˈkɑːnʃəs/` adj. 无意识的
