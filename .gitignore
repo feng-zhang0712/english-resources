@@ -1,0 +1,42 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Local env & secrets
+.env
+.env.*
+!.env.example
+
+# Python (local helpers only; not part of published book)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+
+# 编纂红线：禁止将批量脚本纳入版本库
+**/scripts/
+**/_sort_entries.py
+
+# OS & temp
+Thumbs.db
+*.tmp
+*.bak
+*.log
+
+# Optional local drafts (uncomment if you use this pattern)
+# **/_draft*.md
