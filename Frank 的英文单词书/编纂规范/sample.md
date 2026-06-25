@@ -2,7 +2,7 @@
 
 > 规范见 [`词条模板.md`](词条模板.md)。**词条正文不写 A/B/C 字母**；下列样例仅说明三种篇幅与模块顺序，供编纂对照。
 >
-> **模块顺序（有则写，无则整节省略）**：`[义]` → `[态]` → `[例]` → `[源]` → `[族]` → `[搭]` → `[近]` → `[反]` → `[辨]` → `[联]` → `[记]`
+> **模块顺序（有则写，无则整节省略）**：`[义]` → `[形]` → `[例]` → `[源]` → `[族]` → `[搭]` → `[近]` → `[反]` → `[辨]` → `[联]` → `[记]`
 >
 > **`[联]`**（联想词）：由本词**联想到的其他英语词**（扩展词汇网），格式 `英文 中文, …`；**不是**近义辨析（`[近]`），**不是**词源亲属（`[族]`），**不是**记法窍门（`[记]`）。标准示范见下节 *limp*。
 
@@ -59,7 +59,7 @@ adj. 狂喜的，欣喜若狂的
 v. 愤恨，怨恨
 > 多指长期关系中的不满；略正式
 [义] To feel bitterness or indignation at a circumstance, action, or person—especially when you believe you have been treated unfairly. 核心义：对不公、冒犯或负担**愤愤不平**，常闷在心里、不直接爆发。不是暴怒（rage），多见于同事、配偶、手足等长期关系。
-[态] resent → resented / resented / resenting；第三人称单数 resents
+[态] resented / resented / resenting；第三人称单数 resents
 [例] ① She **resented** being passed over for promotion while less experienced colleagues were promoted. 她**愤恨**自己晋升被跳过，而经验不如她的同事却得到了提拔。 ② He **resents** having to work late every night while his manager leaves at five. 他**愤愤不平**于每晚加班，而经理五点就走人。
 [源] 源自法语 *ressentir*（强烈感受），经拉丁语 *sentire*（感觉）；re- 在此加强「再次感受（不公）」→ 愤恨。
 [族] resentment 愤恨（名词）, resentful 愤愤不平的, resentfully adv.
