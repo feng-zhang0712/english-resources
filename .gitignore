@@ -5,6 +5,7 @@
 ._*
 
 # Editor / IDE
+.cursor/
 .idea/
 .vscode/
 *.swp
@@ -31,6 +32,9 @@ env/
 # 编纂红线：禁止将批量脚本纳入版本库
 **/scripts/
 **/_sort_entries.py
+
+# Local tool caches
+Frank 的英文单词书/tools/.cache/
 
 # OS & temp
 Thumbs.db

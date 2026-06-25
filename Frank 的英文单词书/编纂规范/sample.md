@@ -2,9 +2,9 @@
 
 > 规范见 [`词条模板.md`](词条模板.md)。**词条正文不写 A/B/C 字母**；下列样例仅说明三种篇幅与模块顺序，供编纂对照。
 >
-> **模块顺序（有则写，无则整节省略）**：`[义]` → `[形]` → `[例]` → `[源]` → `[族]` → `[搭]` → `[近]` → `[反]` → `[辨]` → `[联]` → `[记]`
+> **模块顺序（有则写，无则整节省略）**：`[义]` → `[形]` → `[例]` → `[源]` → `[族]` → `[搭]` → `[辨]` → `[联]` → `[记]`
 >
-> **`[联]`**（联想词）：由本词**联想到的其他英语词**（扩展词汇网），格式 `英文 中文, …`；**不是**近义辨析（`[近]`），**不是**词源亲属（`[族]`），**不是**记法窍门（`[记]`）。标准示范见下节 *limp*。
+> **`[联]`**（联想词）：由本词**联想到的其他英语词**（扩展词汇网），**含近义词、反义词、联想词等**；格式 `英文 中文, …` 或近义词辨析 `英文：说明, …`；**不是**词源亲属（`[族]`），**不是**记法窍门（`[记]`）。标准示范见下节 *limp*。
 
 ## 联想词样例：limp
 
@@ -31,8 +31,8 @@ adj. 忧郁的
 [例] ① There was a touch of **melancholy** in her voice as she spoke about the village where she had grown up. 她谈起长大的村庄时，声音里带着一丝**忧郁**。 ② I feel a bit **melancholy** on Sunday evenings—the weekend is over, and Monday is coming. 周日晚上我会有点**怅然**——周末结束了，周一近在眼前。 ③ The film captures the **melancholy** beauty of a seaside town in winter. 这部电影捕捉了一座海滨小城冬日的**惆怅之美**。
 [源] 源自希腊语 *melankholia*（μελαγχολία），*melan-*（黑）+ *chol-*（胆汁，χολή）→ 古希腊「黑胆汁过多」的体液学说 → 忧郁。16 世纪入英，先指医学忧郁症，后审美化为文学性惆怅。
 [族] melanin 黑色素, choleric 易怒的, melancholic adj. 更偏临床/正式
-[搭] deep melancholy 深切的忧郁, autumn melancholy 秋日惆怅, feel a touch of melancholy 感到一丝忧郁, melancholy **about** the past 对往昔的惆怅, melancholy **over** lost time 为逝去时光而忧伤, in a melancholy mood 郁郁寡欢, a note of melancholy 一丝忧伤[近] sad：最通用，无文学/审美色彩, gloomy：强调阴暗气氛，可形容人或天, sorrowful：较正式，多指有明确事由的悲痛, depressed：程度更重，可能含病理意味[反] cheerful 愉快的, light-hearted 轻松愉快的[辨] melodrama：情节剧、夸张戏剧（*melos* 音乐，非「黑」）, melancholic：几乎只作形容词，更偏临床
-[联] wistful 惆怅的, pensive 沉思的, sombre 阴沉的, mournful 哀伤的, nostalgic 怀旧的, forlorn 孤苦零丁的, desolate 荒凉的, lonely 孤独的, dreary 阴郁的, weary 疲倦的, hollow 空洞的, subdued 消沉的, grey 灰蒙蒙的, rainy 阴雨的, autumnal 秋日的, twilight 黄昏的
+[搭] deep melancholy 深切的忧郁, autumn melancholy 秋日惆怅, feel a touch of melancholy 感到一丝忧郁, melancholy **about** the past 对往昔的惆怅, melancholy **over** lost time 为逝去时光而忧伤, in a melancholy mood 郁郁寡欢, a note of melancholy 一丝忧伤[辨] melodrama：情节剧、夸张戏剧（*melos* 音乐，非「黑」）, melancholic：几乎只作形容词，更偏临床
+[联] wistful 惆怅的, pensive 沉思的, sombre 阴沉的, mournful 哀伤的, nostalgic 怀旧的, forlorn 孤苦零丁的, desolate 荒凉的, lonely 孤独的, dreary 阴郁的, weary 疲倦的, hollow 空洞的, subdued 消沉的, grey 灰蒙蒙的, rainy 阴雨的, autumnal 秋日的, twilight 黄昏的, sad：最通用，无文学/审美色彩, gloomy：强调阴暗气氛，可形容人或天, sorrowful：较正式，多指有明确事由的悲痛, depressed：程度更重，可能含病理意味, cheerful 愉快的, light-hearted 轻松愉快的
 [记] 名词可数/不可数均可；口语中 "I'm sad" 比 "I'm melancholy" 自然得多。西方浪漫主义常将 melancholy 审美化（Keats、Wordsworth）。
 
 ## 中详样例：ecstatic
@@ -46,8 +46,8 @@ adj. 狂喜的，欣喜若狂的
 [例] ① The crowd was **ecstatic** when the team scored in the final minute. 球队最后一分钟进球时，观众**欣喜若狂**。 ② She was **ecstatic** when she found out she had been accepted to her dream university. 得知被梦想大学录取时，她**欣喜若狂**。
 [源] 源自希腊语 *ekstasis*（「出神」），*ec-*（出）+ *stat-*（站）→ 喜悦到「脱离常态」。17 世纪入英，原指宗教出神体验，今泛指极度喜悦。
 [族] ecstasy 狂喜（俚语亦指 MDMA，语境不同）, ecstatically adv.
-[搭] ecstatic fans 欣喜若狂的粉丝, be ecstatic **about/at** 对……欣喜若狂, absolutely ecstatic 欣喜若狂, ecstatic reception 热烈反响, ecstatic joy 狂喜[近] excited：未必达极致, thrilled：兴奋且愉悦，强度中高, elated：因好消息兴高采烈，偏正式, overjoyed：极度高兴，语气稍温和[反] miserable 痛苦的, heartbroken 心碎的[辨] static：静止的；勿因 -static 尾音混淆
-[联] euphoric 欣快的, elated 兴高采烈的, jubilant 欢腾的, radiant 喜形于色的, gleeful 欢天喜地的, triumphant 胜利的, breathless 激动的, cheering 欢呼的, celebrating 庆祝的, reunion 重逢（名词）, victory 胜利, acceptance 录取/接纳, tears of joy 喜悦的泪水
+[搭] ecstatic fans 欣喜若狂的粉丝, be ecstatic **about/at** 对……欣喜若狂, absolutely ecstatic 欣喜若狂, ecstatic reception 热烈反响, ecstatic joy 狂喜[辨] static：静止的；勿因 -static 尾音混淆
+[联] euphoric 欣快的, elated 兴高采烈的, jubilant 欢腾的, radiant 喜形于色的, gleeful 欢天喜地的, triumphant 胜利的, breathless 激动的, cheering 欢呼的, celebrating 庆祝的, reunion 重逢（名词）, victory 胜利, acceptance 录取/接纳, tears of joy 喜悦的泪水, excited：未必达极致, thrilled：兴奋且愉悦，强度中高, overjoyed：极度高兴，语气稍温和, miserable 痛苦的, heartbroken 心碎的
 [记] 常与 about / at / over 连用。比 very happy 强烈得多，日常小事用会显得夸张。名词 ecstasy 在俚语中可指毒品，正式写作须依语境消歧。
 
 ## 动词样例（含时态）：resent
@@ -63,8 +63,8 @@ v. 愤恨，怨恨
 [例] ① She **resented** being passed over for promotion while less experienced colleagues were promoted. 她**愤恨**自己晋升被跳过，而经验不如她的同事却得到了提拔。 ② He **resents** having to work late every night while his manager leaves at five. 他**愤愤不平**于每晚加班，而经理五点就走人。
 [源] 源自法语 *ressentir*（强烈感受），经拉丁语 *sentire*（感觉）；re- 在此加强「再次感受（不公）」→ 愤恨。
 [族] resentment 愤恨（名词）, resentful 愤愤不平的, resentfully adv.
-[搭] resent doing sth. 愤恨不得不做某事, resent sb. for sth. 因某事怨恨某人, deeply resent 深恨, bitterly resent 痛恨[近] begrudge：嫉妒/不愿给予，带「吝惜」色彩, dislike：较轻，未必指不公, bear a grudge：积怨（短语）[反] welcome 欣然接受, appreciate 感激, forgive 原谅[辨] **resent** /rɪˈzent/ vs. **recent** /ˈriːsnt/：拼写相近，发音不同
-[联] bitter 怨愤的, indignant 愤慨的, spiteful 恶意的, grudge 积怨, envy 嫉妒, hostility 敌意, sulky 闷闷不乐的, disgruntled 不满的, aggrieved 愤愤不平的, unfair 不公平的, overtime 加班, promotion 晋升, overlooked 被忽视的, workplace 职场
+[搭] resent doing sth. 愤恨不得不做某事, resent sb. for sth. 因某事怨恨某人, deeply resent 深恨, bitterly resent 痛恨[辨] **resent** /rɪˈzent/ vs. **recent** /ˈriːsnt/：拼写相近，发音不同
+[联] bitter 怨愤的, indignant 愤慨的, spiteful 恶意的, grudge 积怨, envy 嫉妒, hostility 敌意, sulky 闷闷不乐的, disgruntled 不满的, aggrieved 愤愤不平的, unfair 不公平的, overtime 加班, promotion 晋升, overlooked 被忽视的, workplace 职场, begrudge：嫉妒/不愿给予，带「吝惜」色彩, dislike：较轻，未必指不公, bear a grudge：积怨（短语）, welcome 欣然接受, appreciate 感激, forgive 原谅
 [记] 不可用于第一人称进行时表「正在恨」的日常口语；多接动名词或 that 从句。比 hate 弱于仇恨、强于 annoyed。
 
 ## 简写样例：happy
@@ -74,9 +74,10 @@ v. 愤恨，怨恨
 **happy**
 英/美 /ˈhæpi/
 adj. 高兴的，幸福的；满意的
-[义] 泛指「感觉良好」：可指短暂高兴（happy to help 乐意帮忙），也可指长期幸福（a happy life 幸福生活）。语气中性、无 ecstatic 的极致感，也无 melancholy 的文学沉郁。
+[义] 泛指「感觉良好」：可指短暂高兴（happy to help 乐意帮忙），也可指长期幸福（a happy life 幸福生活）。语气中性，无 ecstatic 的极致感，也无 melancholy 的文学沉郁。
 [例] ① I'm **happy** to help you with the project. 我**乐意**帮你做这个项目。 ② They seem very **happy** together. 他们在一起似乎很**幸福**。
-[搭] feel happy 感到高兴, happy **about/with** 对……满意/高兴, happy **to** do sth. 乐意做某事, a happy family 幸福的家庭, happy birthday 生日快乐, happy ending 圆满结局[近] glad：多因某事一时高兴，语气较弱, pleased：对结果/他人行为满意[反] sad 难过的, unhappy 不快的
+[搭] feel happy 感到高兴, happy **about/with** 对……满意/高兴, happy **to** do sth. 乐意做某事, a happy family 幸福的家庭, happy birthday 生日快乐, happy ending 圆满结局
+[联] glad：多因某事一时高兴，语气较弱, pleased：对结果/他人行为满意, sad 难过的, unhappy 不快的
 [记] happy 作表语最常见；不可说 × a happily person，用 a happy person。C 档基础词一般不写 `[源]`、`[族]`。
 
 *编纂时按词选详写/中详/简写模块，勿把简写词写成详写篇幅。*

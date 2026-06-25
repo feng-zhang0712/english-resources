@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Convert Frank 英文单词书 chapter markdown to print-ready DOCX."""
+"""Convert Frank vocabulary markdown to print-ready DOCX with pronunciation links."""
 
 from __future__ import annotations
 
@@ -12,18 +12,14 @@ from docx import Document
 from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_LINE_SPACING
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
+from docx.opc.constants import RELATIONSHIP_TYPE as RT
 from docx.shared import Cm, Pt, RGBColor
 
-FIELD_RE = re.compile(r"^\[([^\]]+)\]\s*(.*)")
-HEADWORD_RE = re.compile(r"^\*\*(.+?)\*\*\s*$")
-PHONETIC_RE = re.compile(r"^(英/美|英\s|美\s|英/)")
-POS_RE = re.compile(
-    r"^(n\.|v\.|adj\.|adv\.|prep\.|conj\.|pron\.|interj\.|num\.|art\.|det\.|modal\.|abbr\.|prefix\.|suffix\.|comb\.|phr\.|phrase)"
-)
+from pronunciation import fetch_pronunciation
+from vocab_md import PHONETIC_RE, lookup_word, parse_markdown
 
 
 def parse_bold_runs(text: str, paragraph, *, base_bold: bool = False, base_italic: bool = False):
-    """Append text with **bold** markers as runs."""
     parts = re.split(r"(\*\*.+?\*\*)", text)
     for part in parts:
         if not part:
@@ -46,6 +42,35 @@ def set_run_font(run, *, western: str, east_asia: str, size_pt: float, bold=Fals
     run.italic = italic
     if color:
         run.font.color.rgb = color
+
+
+def add_hyperlink(paragraph, url: str, text: str, *, size_pt: float = 10, color_hex: str = "1A73E8"):
+    if not url:
+        return
+    part = paragraph.part
+    r_id = part.relate_to(url, RT.HYPERLINK, is_external=True)
+    hyperlink = OxmlElement("w:hyperlink")
+    hyperlink.set(qn("r:id"), r_id)
+
+    new_run = OxmlElement("w:r")
+    r_pr = OxmlElement("w:rPr")
+    c = OxmlElement("w:color")
+    c.set(qn("w:val"), color_hex)
+    r_pr.append(c)
+    u = OxmlElement("w:u")
+    u.set(qn("w:val"), "single")
+    r_pr.append(u)
+    sz = OxmlElement("w:sz")
+    sz.set(qn("w:val"), str(int(size_pt * 2)))
+    r_pr.append(sz)
+    new_run.append(r_pr)
+
+    text_el = OxmlElement("w:t")
+    text_el.set(qn("xml:space"), "preserve")
+    text_el.text = text
+    new_run.append(text_el)
+    hyperlink.append(new_run)
+    paragraph._p.append(hyperlink)
 
 
 def add_page_number(paragraph):
@@ -97,7 +122,6 @@ def configure_headers_footers(doc: Document, chapter_title: str | None):
 
 def configure_document(doc: Document):
     section = doc.sections[0]
-    # B5 — common for Chinese reference books
     section.page_width = Cm(17.6)
     section.page_height = Cm(25.0)
     section.top_margin = Cm(2.0)
@@ -136,7 +160,25 @@ def add_headword(doc: Document, word: str, *, first: bool):
     set_run_font(run, western="Georgia", east_asia="Georgia", size_pt=13.5, bold=True, color=RGBColor(0x1A, 0x1A, 0x1A))
 
 
-def add_meta_line(doc: Document, text: str, *, italic: bool = False, indent: bool = False):
+def _speaker_phonetic_index(meta_lines: list[str]) -> int | None:
+    indices = [i for i, line in enumerate(meta_lines) if PHONETIC_RE.match(line)]
+    if not indices:
+        return None
+    for i in indices:
+        if meta_lines[i].startswith("美"):
+            return i
+    return indices[0]
+
+
+def add_meta_line(
+    doc: Document,
+    text: str,
+    *,
+    italic: bool = False,
+    indent: bool = False,
+    pronunciation=None,
+    show_speaker: bool = False,
+):
     p = doc.add_paragraph()
     pf = p.paragraph_format
     pf.space_before = Pt(0)
@@ -144,6 +186,7 @@ def add_meta_line(doc: Document, text: str, *, italic: bool = False, indent: boo
     pf.line_spacing = 1.15
     if indent:
         pf.left_indent = Cm(0.35)
+
     parse_bold_runs(text, p, base_italic=italic)
     for run in p.runs:
         size = 10 if italic else 10.5
@@ -156,6 +199,11 @@ def add_meta_line(doc: Document, text: str, *, italic: bool = False, indent: boo
             italic=run.italic or italic,
             color=RGBColor(0x33, 0x33, 0x33) if italic else None,
         )
+
+    if show_speaker and pronunciation and pronunciation.audio:
+        spacer = p.add_run("  ")
+        set_run_font(spacer, western="Times New Roman", east_asia="Songti SC", size_pt=10)
+        add_hyperlink(p, pronunciation.audio, "🔊", size_pt=10, color_hex="1A73E8")
 
 
 def add_field_line(doc: Document, label: str, content: str):
@@ -188,43 +236,7 @@ def add_field_line(doc: Document, label: str, content: str):
         )
 
 
-def parse_markdown(text: str) -> tuple[str | None, list[dict]]:
-    lines = text.splitlines()
-    chapter_title = None
-    entries: list[dict] = []
-    current: dict | None = None
-
-    for raw in lines:
-        line = raw.rstrip()
-        if not line:
-            continue
-
-        if line.startswith("# "):
-            chapter_title = line[2:].strip()
-            continue
-
-        m = HEADWORD_RE.match(line)
-        if m:
-            if current:
-                entries.append(current)
-            current = {"word": m.group(1), "meta": [], "fields": []}
-            continue
-
-        if current is None:
-            continue
-
-        fm = FIELD_RE.match(line)
-        if fm:
-            current["fields"].append((fm.group(1), fm.group(2)))
-        else:
-            current["meta"].append(line)
-
-    if current:
-        entries.append(current)
-    return chapter_title, entries
-
-
-def build_docx(chapter_title: str | None, entries: list[dict]) -> Document:
+def build_docx(chapter_title: str | None, entries: list[dict], *, with_pronunciation: bool = True) -> Document:
     doc = Document()
     configure_document(doc)
     configure_headers_footers(doc, chapter_title)
@@ -234,22 +246,35 @@ def build_docx(chapter_title: str | None, entries: list[dict]) -> Document:
 
     for idx, entry in enumerate(entries):
         add_headword(doc, entry["word"], first=idx == 0)
-        for meta in entry["meta"]:
-            italic = bool(PHONETIC_RE.match(meta))
-            add_meta_line(doc, meta, italic=italic)
+
+        pronunciation = None
+        if with_pronunciation:
+            pronunciation = fetch_pronunciation(lookup_word(entry["word"]))
+
+        speaker_idx = _speaker_phonetic_index(entry["meta"])
+        for i, meta in enumerate(entry["meta"]):
+            is_phonetic = bool(PHONETIC_RE.match(meta))
+            add_meta_line(
+                doc,
+                meta,
+                italic=is_phonetic,
+                show_speaker=i == speaker_idx,
+                pronunciation=pronunciation,
+            )
+
         for label, content in entry["fields"]:
             add_field_line(doc, label, content)
 
     return doc
 
 
-def convert(md_path: Path, out_path: Path | None = None) -> Path:
+def convert(md_path: Path, out_path: Path | None = None, *, with_pronunciation: bool = True) -> Path:
     text = md_path.read_text(encoding="utf-8")
     chapter_title, entries = parse_markdown(text)
     if not entries:
         raise SystemExit(f"No entries found in {md_path}")
 
-    doc = build_docx(chapter_title, entries)
+    doc = build_docx(chapter_title, entries, with_pronunciation=with_pronunciation)
     if out_path is None:
         out_path = md_path.with_suffix(".docx")
     doc.save(out_path)
@@ -260,13 +285,14 @@ def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Convert vocabulary markdown to print-ready DOCX")
     parser.add_argument("input", type=Path, help="Input .md file")
     parser.add_argument("-o", "--output", type=Path, help="Output .docx path")
+    parser.add_argument("--no-pronunciation", action="store_true", help="Skip pronunciation link lookup")
     args = parser.parse_args(argv)
 
     if not args.input.is_file():
         print(f"Error: file not found: {args.input}", file=sys.stderr)
         return 1
 
-    out = convert(args.input, args.output)
+    out = convert(args.input, args.output, with_pronunciation=not args.no_pronunciation)
     print(f"Wrote {out} ({out.stat().st_size // 1024} KB)")
     return 0
 
